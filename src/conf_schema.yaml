@@ -1,0 +1,9 @@
+[
+  ["mqtt.pub", "s", "", {title: "Publish topic"}],
+  ["mqtt.sub", "s", "", {title: "Subscribe topic"}],
+  ["mqtt.server", "broker.mqttdashboard.com:1883"],
+  ["device.id", ""],
+  ["device.password", "test"],
+  ["i2c.enable", true],
+  ["http.tunnel.enable", false],
+]
